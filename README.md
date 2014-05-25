@@ -9,7 +9,7 @@ OpenLayers example of usage, and script for creation of tiles.
 3. Run create_tiles.rb
 4. Open index.html
 
-![screen](https://raw.github.com/speranskydanil/openlayers-example/master/screen.png)
+![screen](https://raw.githubusercontent.com/speranskydanil/openlayers-example/master/screen.jpg)
 
 **Author (Speransky Danil):**
 [Personal Page](http://dsperansky.info) |
