@@ -1,5 +1,7 @@
 # OpenLayers Example
 
+OpenLayers example of usage, and script for creation of tiles.
+
 ### HOWTO
 
 1. Install Ruby, Paperclip, ImageMagick
