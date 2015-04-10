@@ -1,5 +1,37 @@
-body {
-  margin: 40px;
+html, body {
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+  font-size: 16px;
+}
+
+.wrapper {
+  position: relative;
+  min-height: 100%;
+}
+
+.header {
+  padding: 20px;
+  background: #005500;
+  background-image: url(assets/bg.png);
+  font-size: 40px;
+  color: white;
+  text-align: center;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 20px;
+  background: #efe;
+  background-image: url(assets/bg.png);
+  text-align: center;
+}
+
+.container {
+  padding: 20px 0px 0px 82px;
 }
 
 #map {
