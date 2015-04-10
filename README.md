@@ -2,7 +2,9 @@
 
 OpenLayers example of usage, and script for creation of tiles.
 
-### HOWTO
+## <a href="http://speranskydanil.github.io/openlayers-example">DEMO</a>
+
+## HOWTO
 
 1. Install Ruby, Paperclip, ImageMagick
 2. Put an image with image.jpg name into the data directory
