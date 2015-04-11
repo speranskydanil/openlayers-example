@@ -31,7 +31,7 @@ html, body {
 }
 
 .container {
-  padding: 20px 0px 0px 82px;
+  padding: 20px 0px 82px 0px;
 }
 
 #map {
